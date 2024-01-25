@@ -1,0 +1,115 @@
+body{
+    background-color: #F6C2AC;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+header{
+    color:white;
+    background-color: #595454;
+    padding: 40px;
+    text-align: center;
+}
+
+h2{
+    padding: 20px 450px;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  padding: 20px;
+}
+.column {
+display: grid;
+gap: 28px;
+align-items: center;
+justify-content: center;
+  padding: 20px;
+ text-align: center;
+  
+
+}
+
+.column-2{
+    display: grid;
+    gap: 28px;
+      padding: 20px;
+      background-color: #fff9f9;
+      
+    
+}
+.message-1{
+    background-color: white;
+    width: 298px;
+    height: 98px;
+    border-radius: 20px;
+    
+}
+
+.message-2{
+    background-color: white;
+    width: 298px;
+    height: 98px;
+    border-radius: 20px;
+}
+
+
+.message-3{
+    background-color: white;
+    width: 298px;
+    height: 98px;
+    border-radius: 20px;
+}
+
+.message-4{
+   
+    background-color: white;
+    width: 298px;
+    height: 98px;
+    border-radius: 20px;
+}
+
+.footer{
+    background-color: #595454;
+    width: 700px;
+    height: 70px;
+   
+}
+
+.container-footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input{
+background-color: #F6C2AC;
+width: 200px;
+height: 40px;
+display: grid;
+display: block;
+margin: 0 auto;
+margin-top: 15px;
+border-radius: 20px;
+
+}
+
+#text-input{
+    background-color: transparent;
+    border: none;
+    padding-top: 10px;
+    outline:none;
+    text-align: center;
+}
+
+.click{
+width:70px;
+ height:50px;
+}
+
+
